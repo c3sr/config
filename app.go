@@ -11,7 +11,7 @@ import (
 	"github.com/k0kubun/pp"
 	colorable "github.com/mattn/go-colorable"
 	homedir "github.com/mitchellh/go-homedir"
-	"github.com/rai-project/vipertags"
+	"github.com/c3sr/vipertags"
 	"github.com/spf13/viper"
 )
 

@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/k0kubun/pp"
-	"github.com/rai-project/utils"
+	"github.com/c3sr/utils"
 	"github.com/sirupsen/logrus"
 )
 

@@ -7,7 +7,7 @@ import (
 	sourcepath "github.com/GeertJohan/go-sourcepath"
 	"github.com/Unknwon/com"
 
-	"github.com/rai-project/godotenv"
+	"github.com/joho/godotenv"
 
 	homedir "github.com/mitchellh/go-homedir"
 )
