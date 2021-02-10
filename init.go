@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/k0kubun/pp"
+	"github.com/k0kubun/pp/v3"
 	"github.com/c3sr/utils"
 	"github.com/sirupsen/logrus"
 )

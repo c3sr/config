@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	sourcepath "github.com/GeertJohan/go-sourcepath"
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 
 	"github.com/joho/godotenv"
 

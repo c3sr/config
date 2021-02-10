@@ -6,9 +6,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Unknwon/com"
+	"github.com/unknwon/com"
 	"github.com/fatih/color"
-	"github.com/k0kubun/pp"
+	"github.com/k0kubun/pp/v3"
 	colorable "github.com/mattn/go-colorable"
 	homedir "github.com/mitchellh/go-homedir"
 	"github.com/c3sr/vipertags"
